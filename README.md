@@ -1,5 +1,4 @@
-# JavaCapstone
-Intro to Java - Capstone Project
+# JavaCapstone - Intro to Java Capstone Project
 
 ## About:
 ### Authors: Bryan Huang, Rithvik Bhakhri, David Andreasyan
