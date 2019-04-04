@@ -19,3 +19,6 @@
 - [ ] Test and add additional features
 
 ## Individual Tasks
+- [ ] Bryan: 
+- [ ] David:
+- [ ] Rithvik:
