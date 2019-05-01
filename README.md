@@ -12,6 +12,7 @@
 > What Are The Primary Features Of Our Program? **features
 
 ## Overall Tasks:
+- [x] Come up with team name: Brossel Sprouts
 - [ ] Come up with idea for project
 - [ ] Complete this README file by 4/17/19
 - [ ] Designate tasks for certain class files by 4/19/19
