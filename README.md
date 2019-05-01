@@ -1,6 +1,7 @@
 # JavaCapstone - Intro to Java Capstone Project
 
 ## About:
+### Team Brossel Sprouts
 ### Authors: Bryan Huang, Rithvik Bhakhri, David Andreasyan
 
 > What Does It Do? **program description
