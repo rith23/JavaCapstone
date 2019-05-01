@@ -4,7 +4,7 @@
 ### Team Brossel Sprouts
 ### Authors: Bryan Huang, Rithvik Bhakhri, David Andreasyan
 
-> What Does It Do? **program description
+> What Does It Do? **A pixelated game
 
 > What Problem Does It Solve? **what is solves
 
