@@ -6,17 +6,17 @@
 ##### Date Last Edited: 5 May 2019
 
 ## Introduction:
-> What Does It Do?
+### What Does It Do?
 ###### A pizza man game that involves a pixelated character running through a map to deliver pizza.
 
-> What Problem Does It Solve?
+### What Problem Does It Solve?
 ###### Nothing to do? Tired of doing work all day?
 ###### Then play Pizza Man and discover the obstacles a pizza delivery man encounters en route!
 
-> Who Would Want To Use Our Program?
+### Who Would Want To Use Our Program?
 ###### Anyone can use this program and anywhere!
 
-> What Are The Primary Features Of Our Program?
+### What Are The Primary Features Of Our Program?
 ###### The primary features include:
 - ###### A basic level map with four levels of difficulty
 - ###### Background music, reflecting the type of music a pizza delivery person would listen to along their delivery route.
