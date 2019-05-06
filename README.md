@@ -28,7 +28,7 @@
 
 ## Class List:
 `
-ControlPanel, Map, DefaultScreen, Music, Display
+ControlPanel, Map, DefaultScreen, Music, Display, EventCapture
 `
 
 ## Contribution List:
