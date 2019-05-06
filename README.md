@@ -39,7 +39,7 @@ ControlPanel, Map, DefaultScreen, Music, Display, EventCapture
 - [x] Come up with idea for project
 - [x] Complete this README file by 5/6/19
 - [ ] Designate tasks for certain class files by 5/17/19
-- [ ] Finish coding class files and debug by 5/6/19
+- [ ] Finish coding class files and debug
 - [ ] Test and add additional features
 - [ ] **_PROJECT DUE DATE_**
 
